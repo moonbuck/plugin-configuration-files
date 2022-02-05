@@ -7,7 +7,7 @@
 #
 #   my-category → My Category
 #
-Humanize = true
+# Humanize = true
 
 # The default path to a category page takes the form:
 #  /categories/my-anchorized-category
@@ -17,13 +17,13 @@ Humanize = true
 # the plugin can try to match a category to its menu item and
 # use the URL value of the menu item.
 #
-MenuItemMatching = true
+# MenuItemMatching = true
 
 # List of categories to exclude from the category cloud.
 #
 # For example: ['Pinned', 'Temporary']
 #
-ExclusionList = [ ]
+# ExclusionList = [ ]
 
 # The plugin fetches the category names in anchorized form.
 # The 'Humanize' parameter will return the category names
@@ -31,7 +31,7 @@ ExclusionList = [ ]
 # parameter allows for direct control over how a category
 # name will be displayed
 #
-[DisplayNames]
+# [DisplayNames]
 
 # To define exactly how to display a specific category name 
 # enter its value below with its anchorized form as the key.

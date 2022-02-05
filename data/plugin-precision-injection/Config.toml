@@ -1,7 +1,3 @@
-# The plugin version (printed to HTML comment when the plugin loads).
-#
-# Version = '5.0.0'
-
 # Flag controlling whether HTML comments shall be inserted 
 # with injected file names.
 #
