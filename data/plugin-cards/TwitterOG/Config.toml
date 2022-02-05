@@ -3,4 +3,4 @@
 
 # Whether to inject Twitter and Open Graph <meta> tags into page <head>
 #
-Enable = true
+# Enable = true

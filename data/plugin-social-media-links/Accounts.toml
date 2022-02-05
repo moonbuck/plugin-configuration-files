@@ -6,38 +6,38 @@
 # Replace [BRACKETED] values and uncomment or create your own entries
 # for platforms not listed.
 #
-[[Platforms]]
-Name = "Twitter"
-Href = "https://twitter.com/@USERNAME"
+# [[Platforms]]
+# Name = "Twitter"
+# Href = "https://twitter.com/@USERNAME"
 #Username = "[USERNAME]"
 
-[[Platforms]]
-Name = "Github"
-Href = "https://github.com/USERNAME"
+# [[Platforms]]
+# Name = "Github"
+# Href = "https://github.com/USERNAME"
 #Username = "[USERNAME]"
 
-[[Platforms]]
-Name = "Tumblr"
-Href = "https://USERNAME.tumblr.com"
+# [[Platforms]]
+# Name = "Tumblr"
+# Href = "https://USERNAME.tumblr.com"
 #Username = "[USERNAME]"
 
-[[Platforms]]
-Name = "Medium"
-Href = "https://USERNAME.medium.com"
+# [[Platforms]]
+# Name = "Medium"
+# Href = "https://USERNAME.medium.com"
 #Username = "[USERNAME]"
 
-[[Platforms]]
-Name = "Facebook"
-Href = "https://www.facebook.com/USERNAME"
+# [[Platforms]]
+# Name = "Facebook"
+# Href = "https://www.facebook.com/USERNAME"
 #Username = "[USERNAME]"
 
-[[Platforms]]
-Name = "Instagram"
-Href = "https://www.instagram.com/USERNAME"
+# [[Platforms]]
+# Name = "Instagram"
+# Href = "https://www.instagram.com/USERNAME"
 #Username = "[USERNAME]"
 
-[[Platforms]]
-Name = "Mastodon"
-Href = "https://SERVER/@USERNAME"
+# [[Platforms]]
+# Name = "Mastodon"
+# Href = "https://SERVER/@USERNAME"
 #Server = "[SERVER]"
 #Username = "[USERNAME]"

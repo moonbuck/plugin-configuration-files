@@ -3,4 +3,4 @@
 
 # An array of the ids of conversation items to hide.
 #
-HiddenItems = []
+# HiddenItems = []

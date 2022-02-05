@@ -4,7 +4,7 @@
 # Each appearance of [[Slides]] defines a slide configuration 
 # in the slides array.
 
-[[Slides]]
+# [[Slides]]
 
 # There it was, your first slide configuration, and its empty.
 # For the plugin to be satisfied, every slide must have a valid

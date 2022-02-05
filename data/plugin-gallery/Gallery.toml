@@ -4,16 +4,16 @@
 # A header to display above the description and gallery. This will be
 # parsed as markdown before display.
 #
-Header = ''
+# Header = ''
 
 # A description to display just above the gallery. This will be
 # parsed as markdown before display.
 #
-Description = ''
+# Description = ''
 
 # The gallery's name. 
 #
-Name = 'plugin-gallery'
+# Name = 'plugin-gallery'
 
 # Default description position for all slides.
 #
@@ -59,4 +59,4 @@ Name = 'plugin-gallery'
 # Default pixel width for fetching thumbnail images 
 # via https://micro.blog/photos/ API.
 #
-PhotoWidth = 500
+# PhotoWidth = 500

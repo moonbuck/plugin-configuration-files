@@ -3,28 +3,28 @@
 
 # The class name to attach to the banner image.
 #
-ClassName = 'banner-image'
+# ClassName = 'banner-image'
 
 # The background-color CSS property value for the image.
 #
-Color = 'inherit'
+# Color = 'inherit'
 
 # The height CSS property value for the image.
 #
-Height = '300px'
+# Height = '300px'
 
 # The width CSS property value for the image.
 #
-Width = '100%'
+# Width = '100%'
 
 # The background-position CSS property value for the image.
 #
-Position = 'center'
+# Position = 'center'
 
 # The background-repeat CSS property value for the image.
 #
-Repeat = 'no-repeat'
+# Repeat = 'no-repeat'
 
 # The background-size CSS property value for the image.
 #
-Size = 'cover'
+# Size = 'cover'

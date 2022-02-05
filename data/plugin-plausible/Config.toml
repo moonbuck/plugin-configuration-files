@@ -1,27 +1,27 @@
 # Plugin version, printed to HTML comment when the plugin loads.
 #
-Version = '3.0.1'
+# Version = '3.0.1'
 
 # Whether to print HTML comments for debugging purposes.
 #
-DebugPrint = false
+# DebugPrint = false
 
 # Domain registered with Plausible Analytics.
 #
-RegisteredDomain = ''
+# RegisteredDomain = ''
 
 # Optional extensions to include when fetching Plausible script
 #
-ScriptExtensions = ''
+# ScriptExtensions = ''
 
 # Optional script name without script extensions aside from '.js'
 #
-ScriptName = ''
+# ScriptName = ''
 
 # Optional script source.
 #
-ScriptSource = ''
+# ScriptSource = ''
 
 # Optional data-api value.
 #
-DataAPI = ''
+# DataAPI = ''

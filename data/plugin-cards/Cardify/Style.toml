@@ -3,43 +3,39 @@
 
 # The class name to assign to the card wrapper.
 #
-ClassName = 'cardify-card'
+# ClassName = 'cardify-card'
 
 # Sass block to apply to the card container.
 #
-Card = '''
-background-color: white;
-border-color: rgba(black, .125);
-border-style: solid;
-'''
+# Card = ''
 
 # Sass block to apply to the card body.
 #
-Body = 'padding: 1rem;'
+# Body = ''
 
 # Sass block to apply to the card title.
 #
-Title = 'margin-bottom: .5rem;'
+# Title = ''
 
 # Sass block to apply to the card text.
 #
-Text = ''
+# Text = ''
 
 # Sass block to apply to the reading time element.
 #
-ReadingTime = 'color: #9091AB;'
+# ReadingTime = ''
 
 # Sass block to apply to the publish date element.
 #
-PublishDate = 'color: #666;'
+# PublishDate = ''
 
 # Values that appear in multiple places within the Sass template file.
-[Variables]
+# [Variables]
 
 # Width value for the border applied to card container.
 #
-BorderWidth = '1px'
+# BorderWidth = '1px'
 
 # border-radius value for the card container.
 #
-BorderRadius = '.5rem'
+# BorderRadius = '.5rem'
