@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
   "title": "Moondeer's Configuration Files",
-  "description": "The sole purpose of this plugin is to persist configuration files used by my other plugins. The values set in the configuration files held by this plugin take precedence over the values set in plugin-local files. Creating these files in your own custom theme would be identical to using this plugin. The only magic happening here is that the paths have had underscores replaced with dashes and the files are outside of the individual plugin repositories (where each update would overwrite them). Updates to this plugin will overwrite these files … but hopefully on a much, much less frequent basis."
+  "description": "The sole purpose of this plugin is to persist configuration files used by my other plugins. The values set in the configuration files held by this plugin take precedence over the values set in plugin-local files. Creating these files in your own custom theme would be identical to using this plugin. The only magic happening here is that the paths have had underscores replaced with dashes and the files are outside of the individual plugin repositories (where each update would overwrite them)."
 }
